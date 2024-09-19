@@ -1,0 +1,1197 @@
+[{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271126"
+  },
+  "movieid": 1,
+  "name": "The Shawshank Redemption",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Hapisteki Andy Dufresne, cinayet suçlamasıyla ömür boyu hapis cezasına çarptırılır. Hapiste geçirdiği yıllarda, arkadaşlarıyla kurduğu bağlar, zeki planları ve hayal gücü sayesinde, özgürlüğe ve adalete ulaşma mücadelesini anlatır.",
+  "duration": 142,
+  "director": "Frank Darabont",
+  "imdb": 9.3,
+  "averageRating": 2.5,
+  "commentCount": 2,
+  "screenwriter": "Frank Darabont",
+  "stars": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271127"
+  },
+  "movieid": 2,
+  "name": "The Godfather",
+  "category": [
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "Vito Corleone, New York'ta güçlü ve etkili bir mafya aile lideridir. Filmin hikayesi, onun ölüm döşeğinde olmasıyla başlayan ve oğlu Michael Corleone'un aile işlerini devralmasıyla devam eden mafya ailesinin içsel çatışmalarını ve güç mücadelesini konu alır.",
+  "duration": 175,
+  "director": "Francis Ford Coppola",
+  "imdb": 9.2,
+  "averageRating": 5,
+  "commentCount": 3,
+  "screenwriter": "Mario Puzo, Francis Ford Coppola",
+  "stars": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271128"
+  },
+  "movieid": 3,
+  "name": "The Dark Knight",
+  "category": [
+    "Aksiyon",
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "Batman, Gotham City'deki suçla mücadele ederken, yeni bir tehdit olan Joker ile karşılaşır. Joker'ın kaotik planları, Batman ve şehri derinden etkilerken, Batman'ın etik ve adalet anlayışını da test eder.",
+  "duration": 152,
+  "director": "Christopher Nolan",
+  "imdb": 9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Jonathan Nolan, Christopher Nolan",
+  "stars": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271129"
+  },
+  "movieid": 4,
+  "name": "The Godfather Part II",
+  "category": [
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "İlk filmin devamı olan bu yapım, Michael Corleone'un ailesinin işlerini genişletme ve güçlendirme çabalarını, aynı zamanda Vito Corleone'un gençliğini ve ilk yıllarını da paralel olarak anlatır. Michael'ın suç dünyasında karşılaştığı zorluklar ve ihanetlerle başa çıkma mücadelesi üzerine yoğunlaşır.",
+  "duration": 202,
+  "director": "Francis Ford Coppola",
+  "imdb": 9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Mario Puzo, Francis Ford Coppola",
+  "stars": [
+    "Al Pacino",
+    "Robert De Niro",
+    "Diane Keaton"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112a"
+  },
+  "movieid": 5,
+  "name": "12 Angry Men",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Bir cinayet davasında, jüri üyeleri suçlu olup olmadığını belirlemek için tartışırken, 12 adamın birbirinden farklı kişisel önyargıları ve sosyal arka planları, jüri odasında gerilimli ve çetin bir tartışmaya yol açar. Adalet arayışını ve toplumsal sorunları ele alır.",
+  "duration": 96,
+  "director": "Sidney Lumet",
+  "imdb": 9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Reginald Rose",
+  "stars": [
+    "Henry Fonda",
+    "Lee J. Cobb",
+    "Ed Binns"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/1200px-12_Angry_Men_%281957_film_poster%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112b"
+  },
+  "movieid": 6,
+  "name": "Schindler's List",
+  "category": [
+    "Tarihi",
+    "Dram"
+  ],
+  "summary": "II. Dünya Savaşı sırasında, Alman işadamı Oskar Schindler, Polonya'daki Yahudi işçilerini Nazi zulmünden kurtarmak için riskler göze alır. Film, Schindler'ın soykırım sırasında yaptığı kahramanca eylemleri ve hayatını riske atarak 1.100'den fazla Yahudi'yi kurtarmasını konu alır.",
+  "duration": 195,
+  "director": "Steven Spielberg",
+  "imdb": 8.9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Steven Zaillian",
+  "stars": [
+    "Liam Neeson",
+    "Ben Kingsley",
+    "Ralph Fiennes"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112c"
+  },
+  "movieid": 7,
+  "name": "The Lord of the Rings: The Return of the King",
+  "category": [
+    "Fantastik",
+    "Macera"
+  ],
+  "summary": "Yüzüklerin Efendisi serisinin son filmidir. Frodo ve Sam, Yüzüğü yok etmek için Mordor'a doğru tehlikeli bir yolculuğa çıkarken, Aragorn, Gondor'un hakiki kralı olarak tahta geçmeye hazırlanır ve Sauron'a karşı büyük bir savaş verilir.",
+  "duration": 201,
+  "director": "Peter Jackson",
+  "imdb": 8.9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Fran Walsh, Philippa Boyens, Peter Jackson",
+  "stars": [
+    "Elijah Wood",
+    "Viggo Mortensen",
+    "Ian McKellen"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112d"
+  },
+  "movieid": 8,
+  "name": "Pulp Fiction",
+  "category": [
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "Quentin Tarantino'nun kült filmi, birbirine bağlı birkaç hikaye sunar. Film, Los Angeles'ın suç dünyasında geçen ve başta gangsterler, bir çift soyguncu, bir dövüşçü ve bir mafya patronunu içeren karmaşık bir anlatı sunar.",
+  "duration": 154,
+  "director": "Quentin Tarantino",
+  "imdb": 8.9,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Quentin Tarantino, Roger Avary",
+  "stars": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112e"
+  },
+  "movieid": 9,
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "category": [
+    "Fantastik",
+    "Macera"
+  ],
+  "summary": "Yüzüklerin Efendisi serisinin ilk filmidir. Frodo Baggins, Güç Yüzüğü'nü yok etmek için bir grup arkadaşla birlikte uzun ve tehlikeli bir yolculuğa çıkar. Yüzüğü yok etme görevi, Kardeşlik adlı bir grup tarafından üstlenilir.",
+  "duration": 178,
+  "director": "Peter Jackson",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Fran Walsh, Philippa Boyens, Peter Jackson",
+  "stars": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Orlando Bloom"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d27112f"
+  },
+  "movieid": 10,
+  "name": "The Good, the Bad and the Ugly",
+  "category": [
+    "Western",
+    "Aksiyon"
+  ],
+  "summary": "Bir spaghetti western filmi olan bu yapım, Amerikan İç Savaşı döneminde geçen ve bir define avında birbirleriyle yarışan üç farklı karakterin öyküsünü anlatır. Her biri kendi yöntemleriyle defineyi bulmaya çalışırken, birbirleriyle ve geçmişleriyle yüzleşirler.",
+  "duration": 161,
+  "director": "Sergio Leone",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Luciano Vincenzoni, Sergio Leone",
+  "stars": [
+    "Clint Eastwood",
+    "Eli Wallach",
+    "Lee Van Cleef"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271130"
+  },
+  "movieid": 11,
+  "name": "Forrest Gump",
+  "category": [
+    "Dram",
+    "Romantik"
+  ],
+  "summary": "Forrest Gump, zeka geriliği bulunan ve hayatı boyunca birçok tarihsel olaya tanıklık eden bir adamın öyküsünü anlatır. Forrest, sıradışı bir şansa ve azme sahip olmasına rağmen, Amerika'nın önemli olayları ve kültürel değişimleri içinde sıradan bir yaşam sürmeye devam eder.",
+  "duration": 142,
+  "director": "Robert Zemeckis",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Eric Roth",
+  "stars": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/tr/b/bb/Forrest_Gump_%28film%2C_1994%29.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271131"
+  },
+  "movieid": 12,
+  "name": "The Lord of the Rings: The Two Towers",
+  "category": [
+    "Fantastik",
+    "Macera"
+  ],
+  "summary": "Yüzüklerin Efendisi serisinin ikinci filmidir. Frodo ve Sam, Yüzüğü yok etmek için Mordor'a doğru ilerlerken, diğer Kardeşlik üyeleri, Orta Dünya'daki savaşın ortasında mücadele eder. Aragon, Legolas ve Gimli'nin savaş stratejileri ve çatışmalar anlatılır.",
+  "duration": 179,
+  "director": "Peter Jackson",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Fran Walsh, Philippa Boyens",
+  "stars": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNzU2ODUxODgtNTdkYi00OTFmLWExNTctYWQ1NGVmYmQxNjMxXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271132"
+  },
+  "movieid": 13,
+  "name": "Fight Club",
+  "category": [
+    "Dram",
+    "Psikolojik Gerilim"
+  ],
+  "summary": "Bir adam, hayatının monotonluğundan kaçmak için gizli bir dövüş kulübü kurar. Bu kulüp, erkekler arasında şiddet yoluyla kendini bulma arayışını ve toplumun baskılarından kurtulma mücadelesini temsil eder. Film, varoluşsal kriz ve kimlik arayışını derinlemesine işler.",
+  "duration": 139,
+  "director": "David Fincher",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Jim Uhls",
+  "stars": [
+    "Edward Norton",
+    "Brad Pitt",
+    "Helena Bonham Carter"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271133"
+  },
+  "movieid": 14,
+  "name": "Inception",
+  "category": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "summary": "Dom Cobb, rüyalar içinde fikirleri çalabilen bir hırsızdır. Son bir görevde, hedefinin rüyasında bir fikir yerleştirmek yerine, ona bir düşünceyi başkalarının zihinlerinde yaratmayı hedefler. Film, rüya ve gerçeklik arasındaki sınırları araştırır.",
+  "duration": 148,
+  "director": "Christopher Nolan",
+  "imdb": 8.8,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Christopher Nolan",
+  "stars": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271134"
+  },
+  "movieid": 15,
+  "name": "Star Wars: Episode V - The Empire Strikes Back",
+  "category": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "summary": "Yıldız Savaşları serisinin beşinci bölümü. İsyan güçleri, Galaktik İmparatorluk'tan kaçarken, Luke Skywalker Jedi eğitimi almak üzere Dagobah'a gider. Bu sırada, Han Solo ve arkadaşları, İmparator'un kıyıcı güçleriyle karşılaşır.",
+  "duration": 124,
+  "director": "Irvin Kershner",
+  "imdb": 8.7,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Leigh Brackett, Lawrence Kasdan",
+  "stars": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271135"
+  },
+  "movieid": 16,
+  "name": "The Matrix",
+  "category": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "summary": "Neo, gerçek dünyadan farklı bir sanal gerçeklikte yaşadığını keşfeder. İnsanların makineler tarafından kontrol edildiği bu dünyadan kaçmak için bir isyanın parçası olur. Film, gerçeklik ve yapay zeka arasındaki ilişkiyi sorgular.",
+  "duration": 136,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "imdb": 8.7,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Lana Wachowski, Lilly Wachowski",
+  "stars": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSjSWOCaw5dnDL2GT1zFd9RMCgUGw5Q2Cfg&s"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271136"
+  },
+  "movieid": 17,
+  "name": "Goodfellas",
+  "category": [
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "Henry Hill, genç yaşta mafyaya katılır ve suç dünyasının içine çekilir. Film, onun suç kariyerini, şiddetle dolu hayatını ve sonrasında yaşadığı zorlukları anlatır. Gerçek bir hikayeye dayanan yapım, mafya yaşamını detaylı bir şekilde ele alır.",
+  "duration": 146,
+  "director": "Martin Scorsese",
+  "imdb": 8.7,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Nicholas Pileggi, Martin Scorsese",
+  "stars": [
+    "Ray Liotta",
+    "Robert De Niro",
+    "Joe Pesci"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/tr/7/7b/Goodfellas.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271137"
+  },
+  "movieid": 18,
+  "name": "One Flew Over the Cuckoo's Nest",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Randle McMurphy, cezaevinden kaçmak için akıl hastanesine yatış yapar. Burada, hastaların ve hemşirelerin yaşamını ve hastane ortamını sorgulayan bir isyan başlatır. Film, toplumsal normlar ve bireysel özgürlükler arasındaki çatışmayı ele alır.",
+  "duration": 133,
+  "director": "Milos Forman",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Lawrence Hauben, Bo Goldman",
+  "stars": [
+    "Jack Nicholson",
+    "Louise Fletcher",
+    "Michael Berryman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271138"
+  },
+  "movieid": 19,
+  "name": "Interstellar",
+  "category": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "summary": "Dünya'nın kıyamet sonrası bir döneme girmesiyle, bir grup astronot, insanlığın hayatta kalması için yeni bir gezegen bulmak üzere uzaya yolculuğa çıkar. Film, zaman, uzay ve insanlık arayışı temalarını işler.",
+  "duration": 169,
+  "director": "Christopher Nolan\",",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Jonathan Nolan, Christopher Nolan",
+  "stars": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0907a9f7824c74d271139"
+  },
+  "movieid": 20,
+  "name": "Se7en",
+  "category": [
+    "Polisiye",
+    "Gerilim"
+  ],
+  "summary": "İki dedektif, şehirdeki bir seri cinayet davasını araştırır. Katil, kurbanlarını yedi ölümcül günahtan biriyle ilişkilendirilmiş şekilde öldürür. Film, gerilim ve suç unsurlarını derinlemesine işler.",
+  "duration": 127,
+  "director": "David Fincher",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Andrew Kevin Walker",
+  "stars": [
+    "Brad Pitt",
+    "Morgan Freeman",
+    "Gwyneth Paltrow"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113a"
+  },
+  "movieid": 21,
+  "name": "It's a Wonderful Life",
+  "category": [
+    "Dram",
+    "Aile"
+  ],
+  "summary": "Bailey, hayatının anlamını sorgularken ve umutsuzluk içinde olduğunda, bir melek ona hayatının toplum üzerindeki etkilerini gösterir. Film, yaşamın değerini ve kişisel fedakarlığı kutlar.",
+  "duration": 130,
+  "director": "Frank Capra",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Frances Goodrich, Albert Hackett, Frank Capra",
+  "stars": [
+    "James Stewart",
+    "Donna Reed",
+    "Lionel Barrymore"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113b"
+  },
+  "movieid": 22,
+  "name": "Seven Samurai",
+  "category": [
+    "Aksiyon",
+    "Macera"
+  ],
+  "summary": "Köylerini soygunculardan korumak için yedi samurayın bir araya gelmesiyle oluşan bir hikayeyi anlatır. Film, cesaret, fedakarlık ve toplumsal dayanışma temalarını işler.",
+  "duration": 207,
+  "director": "Akira Kurosawa",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+  "stars": [
+    "Toshiro Mifune",
+    "Takashi Shimura",
+    "Keiko Tsushima"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOGNiY2QzOTAtOWNlZC00NjAwLWFmMTAtNTJhYTBiNTY4ODU0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113c"
+  },
+  "movieid": 23,
+  "name": "The Silence of the Lambs",
+  "category": [
+    "Polisiye",
+    "Gerilim"
+  ],
+  "summary": "Genç bir FBI ajanı, bir seri katilin izini sürerken, hapsedilmiş bir psikopat olan Hannibal Lecter'dan yardım alır. Film, psikolojik gerilim ve suç unsurlarını içerir.",
+  "duration": 118,
+  "director": "Jonathan Demme",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Ted Tally",
+  "stars": [
+    "Jodie Foster",
+    "Anthony Hopkins",
+    "Lawrence A. Bonney"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD5EzCfvxKSqbAfp8BlsWjDQumsX0S9rYVg&s"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113d"
+  },
+  "movieid": 24,
+  "name": "Saving Private Ryan",
+  "category": [
+    "Savaş",
+    "Dram"
+  ],
+  "summary": "II. Dünya Savaşı sırasında, bir grup asker, kaybolan bir askeri, Er James Francis Ryan'ı bulmak ve kurtarmak için tehlikeli bir göreve gönderilir. Film, savaşın acımasızlığını ve askerlerin fedakarlığını derinlemesine inceler.",
+  "duration": 169,
+  "director": "Steven Spielberg",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Robert Rodat",
+  "stars": [
+    "Tom Hanks",
+    "Matt Damon",
+    "Tom Sizemore"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK8pZqGy2s0AXsd0yRR3DcvrOt58xFt963w&s"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113e"
+  },
+  "movieid": 25,
+  "name": "City of God",
+  "category": [
+    "Polisiye",
+    "Dram"
+  ],
+  "summary": "Rio de Janeiro'nun favelasında geçen film, iki genç arkadaşın suç dünyasındaki yollarını ve bu dünyadaki şiddet ve karanlık yaşamı keşfeder. Film, gerçek olaylara dayanır ve şehirdeki suç çeteleri arasındaki çatışmayı anlatır.",
+  "duration": 130,
+  "director": "Fernando Meirelles, Kátia Lund",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Bráulio Mantovani",
+  "stars": [
+    "Alexandre Rodrigues",
+    "Leandro Firmino",
+    "Phellipe Haagensen"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d27113f"
+  },
+  "movieid": 26,
+  "name": "Life Is Beautiful",
+  "category": [
+    "Dram",
+    "Komedi"
+  ],
+  "summary": "II. Dünya Savaşı sırasında, bir baba ve küçük oğlu, toplama kampına gönderilir. Baba, oğluna kampın bir oyun olduğuna inandırarak, onun savaşın acımasız gerçeklerinden korunmasını sağlar. Film, aşk, aile ve umut temalarını işler.",
+  "duration": 116,
+  "director": "Roberto Benigni",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Roberto Benigni, Vincenzo Cerami",
+  "stars": [
+    "Roberto Benigni",
+    "Nicoletta Braschi",
+    "Giustino Durano"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d271140"
+  },
+  "movieid": 27,
+  "name": "The Green Mile",
+  "category": [
+    "Dram",
+    "Fantastik"
+  ],
+  "summary": "Bir ölüm hücresinde çalışan bir gardiyan, mistik güçlere sahip bir mahkum olan John Coffey ile tanışır. Coffey'nin gerçekliği ve onun etrafındaki olaylar, adalet, insanlık halleri ve mucizeler üzerine derin bir hikaye sunar.",
+  "duration": 189,
+  "director": "Frank Darabont",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Frank Darabont",
+  "stars": [
+    "Tom Hanks",
+    "Michael Clarke Duncan",
+    "David Morse"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d271141"
+  },
+  "movieid": 28,
+  "name": "Terminator 2: Judgment Day",
+  "category": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "summary": "Gelecekteki bir kıyameti önlemek için, bir cyborg (Terminatör), genç bir çocuğu korumak için geçmişe gönderilir. Film, teknolojinin ve yapay zekanın gelecekteki etkilerini araştırır.",
+  "duration": 137,
+  "director": "James Cameron",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "James Cameron, William Wisher Jr.",
+  "stars": [
+    "Arnold Schwarzenegger",
+    "Linda Hamilton",
+    "Edward Furlong"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiiEkFxkev2ZCxNl25GG7Pq-VFTvdzsZXXg&s"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d271142"
+  },
+  "movieid": 29,
+  "name": "Star Wars: Episode IV - A New Hope",
+  "category": [
+    "Bilim Kurgu",
+    "Aksiyon"
+  ],
+  "summary": "Yıldız Savaşları serisinin ilk filmidir. Genç Luke Skywalker, Galaktik İmparatorluğu'nun zulmünden kurtulmak için bir isyan grubuna katılır. Film, özgürlük mücadelesini ve kahramanlık yolculuğunu anlatır.",
+  "duration": 121,
+  "director": "George Lucas",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "George Lucas",
+  "stars": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0927e9f7824c74d271143"
+  },
+  "movieid": 30,
+  "name": "Back to the Future",
+  "category": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "summary": "Genç Marty McFly, bir zaman makinesi kullanarak geçmişe gider ve ailesinin gelecekteki yaşamını tehlikeye atar. Geleceği düzeltmek ve kendi varlığını korumak için geçmişteki olayları değiştirmeye çalışır.",
+  "duration": 116,
+  "director": "Robert Zemeckis",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Robert Zemeckis, Bob Gale",
+  "stars": [
+    "Michael J. Fox",
+    "Christopher Lloyd",
+    "Lea Thompson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271144"
+  },
+  "movieid": 31,
+  "name": "Spirited Away",
+  "category": [
+    "Animation",
+    "Fantastik"
+  ],
+  "summary": "Genç bir kız, ailesiyle birlikte garip bir dünyaya geçer ve ailesini geri kazanmak için bir büyücünün hamamında çalışmak zorunda kalır. Film, özgürlük, büyü ve kendini keşfetme temalarını işler.",
+  "duration": 125,
+  "director": "Hayao Miyazaki",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Hayao Miyazaki",
+  "stars": [
+    "Rumi Hiiragi",
+    "Miyu Irino",
+    "Lauren Holly"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjkFIaR2x3BF__b6d2_vsfpeXOO_HeFwVLg&s"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271145"
+  },
+  "movieid": 32,
+  "name": "The Pianist",
+  "category": [
+    "Dram",
+    "Tarihi"
+  ],
+  "summary": "II. Dünya Savaşı sırasında Polonya'da yaşayan yetenekli piyanist Władysław Szpilman'ın yaşamını konu alır. Nazilerin işgali altındaki Polonya'da hayatta kalma mücadelesini ve müzikle olan bağını anlatır.",
+  "duration": 150,
+  "director": "Roman Polanski",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Ronald Harwood",
+  "stars": [
+    "Adrien Brody",
+    "Thomas Kretschmann",
+    "Frank Finlay"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271146"
+  },
+  "movieid": 33,
+  "name": "Parasite",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "Yoksul bir aile, zengin bir ailenin hayatına sızarak sosyal ve ekonomik avantajlar sağlamaya başlar. Film, sınıf ayrımlarını ve sosyal adaletsizliği ele alır.",
+  "duration": 132,
+  "director": "Bong Joon Ho",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Bong Joon Ho, Han Jin-won",
+  "stars": [
+    "Kang-ho Song",
+    "Sun-kyun Lee",
+    "Yeo-jeong Jo"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyJYd_sWzQdj87gwIiDRpi6JtzfY6-XLG-w&s"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271147"
+  },
+  "movieid": 34,
+  "name": "Psycho",
+  "category": [
+    "Gerilim",
+    "Korku"
+  ],
+  "summary": "Bir kadın, kaçak bir şekilde büyük bir miktar parayı çalmış olarak bir otelde kalmaya başlar ve burada garip bir otel sahibinin sırlarını keşfeder. Alfred Hitchcock'un ünlü gerilim filmi, psikolojik korku öğelerini içerir.",
+  "duration": 109,
+  "director": "Alfred Hitchcock",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Joseph Stefano",
+  "stars": [
+    "Anthony Perkins",
+    "Janet Leigh",
+    "Vera Miles"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggrV8Nyl7IWyPDZSICQPI_C33XLQtiku3xA&s"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271148"
+  },
+  "movieid": 35,
+  "name": "Gladiator",
+  "category": [
+    "Aksiyon",
+    "Macera",
+    "Dram"
+  ],
+  "summary": "Roma İmparatorluğu döneminde, intikam peşinde olan bir gladyatör, eski bir general olarak haksız yere imparator tarafından öldürülmüştür. Onun intikam mücadelesi ve özgürlük arayışı anlatılır.",
+  "duration": 155,
+  "director": "Ridley Scott",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "David Franzoni, John Logan, William Nicholson",
+  "stars": [
+    "Russell Crowe",
+    "Joaquin Phoenix",
+    "Connie Nielsen"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d271149"
+  },
+  "movieid": 36,
+  "name": "The Lion King",
+  "category": [
+    "Animasyon",
+    "Macera"
+  ],
+  "summary": "Küçük bir aslan yavrusu olan Simba, babasının ölümünden sonra krallığını geri almak için bir yolculuğa çıkar. Film, aile, sorumluluk ve kendini bulma temalarını işler.",
+  "duration": 88,
+  "director": "Roger Allers, Rob Minkoff",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
+  "stars": [
+    "Matthew Broderick",
+    "Jeremy Irons",
+    "James Earl Jones"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d27114a"
+  },
+  "movieid": 37,
+  "name": "Spider-Man: Across the Spider-Verse",
+  "category": [
+    "Animasyon",
+    "Aksiyon"
+  ],
+  "summary": "Spider-Man karakterinin çeşitli evrenlerdeki versiyonları, birlikte bir tehdidi durdurmak için birleşir. Film, çoklu evrenler konsepti ve aksiyon dolu bir hikaye sunar.",
+  "duration": 140,
+  "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Phil Lord, Christopher Miller",
+  "stars": [
+    "Shameik Moore",
+    "Hailee Steinfeld",
+    "Oscar Isaac"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d27114b"
+  },
+  "movieid": 38,
+  "name": "The Departed",
+  "category": [
+    "Polisiye",
+    "Gerilim"
+  ],
+  "summary": "Boston'daki bir mafya çetesi ve polis arasında geçen bir kedi-fare oyunu. Bir polis, mafyanın içine sızarken, mafya üyesi de polis teşkilatına sızar. Film, güven, ihanet ve suç dünyasını araştırır.",
+  "duration": 151,
+  "director": "Martin Scorsese",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "William Monahan",
+  "stars": [
+    "Leonardo DiCaprio",
+    "Matt Damon",
+    "Jack Nicholson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d27114c"
+  },
+  "movieid": 39,
+  "name": "Whiplash",
+  "category": [
+    "Dram",
+    "Müzik"
+  ],
+  "summary": "Genç bir davulcu, bir müzik okulunda sert bir eğitmen tarafından zorlanır ve müzik kariyerinde başarılı olma mücadelesini verir. Film, mükemmeliyetçilik, öğretmen-öğrenci ilişkisi ve kişisel sınırları zorlamayı ele alır.",
+  "duration": 106,
+  "director": "Damien Chazelle",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Damien Chazelle",
+  "stars": [
+    "Miles Teller",
+    "J.K. Simmons",
+    "Paul Reiser"
+  ],
+  "img": "https://tr.web.img3.acsta.net/pictures/15/01/11/08/46/399214.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0939d9f7824c74d27114d"
+  },
+  "movieid": 40,
+  "name": "American History X",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Bir neo-Nazi, hapisten çıktıktan sonra, geçmişteki aşırılıklarının sonuçlarını ve ailesine olan etkilerini yeniden değerlendirmeye başlar. Film, ırkçılık ve kişisel değişim temalarını işler.",
+  "duration": 119,
+  "director": "Tony Kaye",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "David McKenna",
+  "stars": [
+    "Edward Norton",
+    "Edward Furlong",
+    "Beverly D'Angelo"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/American_History_X_poster.png/220px-American_History_X_poster.png"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d27114e"
+  },
+  "movieid": 41,
+  "name": "Léon: The Professional",
+  "category": [
+    "Aksiyon",
+    "Dram"
+  ],
+  "summary": "Bir tetikçi ve genç bir kız arasındaki beklenmedik arkadaşlık ve koruyuculuk ilişkisini konu alır. Kız, ailesinin cinayetinden sonra Léon'dan yardım ister ve onun hayatına dahil olur.",
+  "duration": 110,
+  "director": "Luc Besson",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Luc Besson",
+  "stars": [
+    "Jean Reno",
+    "Natalie Portman",
+    "Gary Oldman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d27114f"
+  },
+  "movieid": 42,
+  "name": "The Prestige",
+  "category": [
+    "Gerilim",
+    "Gizem"
+  ],
+  "summary": "II. Dünya Savaşı'nın sonlarına doğru Japonya'da geçen film, savaşın yıkıcı etkilerinden kaçan iki kardeşin hayatta kalma mücadelesini anlatır. Film, savaşın insanlık halleri üzerindeki etkilerini derinlemesine işler.",
+  "duration": 130,
+  "director": "Christopher Nolan",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Jonathan Nolan, Christopher Nolan",
+  "stars": [
+    "Christian Bale",
+    "Hugh Jackman",
+    "Scarlett Johansson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271150"
+  },
+  "movieid": 43,
+  "name": "Grave of the Fireflies",
+  "category": [
+    "Animasyon",
+    "Dram"
+  ],
+  "summary": "II. Dünya Savaşı'nın sonlarına doğru Japonya'da geçen film, savaşın yıkıcı etkilerinden kaçan iki kardeşin hayatta kalma mücadelesini anlatır. Film, savaşın insanlık halleri üzerindeki etkilerini derinlemesine işler.",
+  "duration": 89,
+  "director": "Isao Takahata",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Isao Takahata",
+  "stars": [
+    "Tsutomu Tatsumi",
+    "Ayano Shiraishi",
+    "Yoshiko Shinohara"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271151"
+  },
+  "movieid": 44,
+  "name": "Harakiri",
+  "category": [
+    "Dram",
+    "Savaş"
+  ],
+  "summary": "Bir samuray, intihar etmek için bir feodal lordun önünde bir meydan okumada bulunur. Film, onur, intihar ve toplumsal normlar üzerine derin bir hikaye sunar.",
+  "duration": 133,
+  "director": "Masaki Kobayashi ",
+  "imdb": 8.6,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Masaki Kobayashi, Shinobu Hashimoto",
+  "stars": [
+    "Tatsuya Nakadai ",
+    "Akira Ishihama ",
+    "Yoshiko Kuga"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271152"
+  },
+  "movieid": 45,
+  "name": "Dune: Part Two",
+  "category": [
+    "Bilim Kurgu",
+    "Macera"
+  ],
+  "summary": "\"Dune\"un devamı olarak, Paul Atreides'in Arrakis gezegenindeki mücadelesi ve Güç Yüzüğü'nü kontrol etme arayışı devam eder. Film, galaksiler arası politik ve kültürel çatışmaları ele alır.",
+  "duration": 155,
+  "director": "Denis Villeneuve",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Denis Villeneuve, Jon Spaihts, Eric Roth",
+  "stars": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Austin Butler"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271153"
+  },
+  "movieid": 46,
+  "name": "The Usual Suspects",
+  "category": [
+    "Polisiye",
+    "Gerilim"
+  ],
+  "summary": "Bir grup suçlu, büyük bir soygun planı yapmak üzere bir araya gelir, ancak bir cinayet ve kimlik karmaşası sonrası herkes şüpheli hale gelir. Film, sürükleyici bir gizem ve şaşırtıcı bir son sunar.",
+  "duration": 106,
+  "director": "Bryan Singer",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Christopher McQuarrie",
+  "stars": [
+    "Kevin Spacey",
+    "Gabriel Byrne",
+    "Chazz Palminteri"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271154"
+  },
+  "movieid": 47,
+  "name": "Casablanca",
+  "category": [
+    "Dram",
+    "Romantik"
+  ],
+  "summary": "II. Dünya Savaşı sırasında, Casablanca'daki bir gece kulübü sahibi olan Rick Blaine, eski sevgilisi Ilsa ile karşılaşır ve onu Nazi işgali altındaki Avrupa'dan kurtarmak için mücadele eder. Film, aşk, fedakarlık ve siyasi dramayı işler.",
+  "duration": 102,
+  "director": "Michael Curtiz",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
+  "stars": [
+    "Humphrey Bogart",
+    "Ingrid Bergman",
+    "Paul Henreid"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271155"
+  },
+  "movieid": 48,
+  "name": "The Intouchables",
+  "category": [
+    "Komedi",
+    "Dram"
+  ],
+  "summary": "Zengin bir felçli adam ve onun genç bakıcısı arasındaki beklenmedik arkadaşlık. Bakıcı, felçli adamın hayatına renk katar ve ikisinin de yaşamını değiştirir. Film, dostluk ve sosyal sınıf temalarını işler.",
+  "duration": 112,
+  "director": "Olivier Nakache, Éric Toledano",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Olivier Nakache, Éric Toledano",
+  "stars": [
+    "François Cluzet",
+    "Omar Sy",
+    "Anne Le Ny"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271156"
+  },
+  "movieid": 49,
+  "name": "Cinema Paradiso",
+  "category": [
+    "Dram",
+    "Romantik"
+  ],
+  "summary": "Ünlü bir film yönetmeni, çocukluğunda büyüdüğü memleketine döner ve eski sinema salonunun anılarını hatırlar. Film, sinema aşkı ve geçmişin hatıraları üzerine derin bir öykü sunar.",
+  "duration": 155,
+  "director": "Giuseppe Tornatore",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Giuseppe Tornatore",
+  "stars": [
+    "Jacques Perrin",
+    "Marco Leonardi",
+    "Malèna"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d0942a9f7824c74d271157"
+  },
+  "movieid": 50,
+  "name": "Modern Times",
+  "category": [
+    "Komedi",
+    "Dram"
+  ],
+  "summary": "Charlie Chaplin, endüstriyel bir çağda, fabrikada çalışırken yaşadığı zorlukları ve toplumsal sorunları mizahi bir şekilde anlatır. Film, kapitalizmin ve modern toplumun eleştirisini içerir.",
+  "duration": 87,
+  "director": "Charles Chaplin",
+  "imdb": 8.5,
+  "averageRating": null,
+  "commentCount": null,
+  "screenwriter": "Charles Chaplin",
+  "stars": [
+    "Charlie Chaplin",
+    "Paulette Goddard",
+    "Henry Bergman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BM2VlMjY3N2UtN2ZjNC00MDg4LWI3ZGQtZmE4NjZkZjkwZmYzXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg"
+}]
