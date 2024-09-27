@@ -38,18 +38,16 @@ app.post('/signup', async (req, res) => {
   const { firstName, lastName, email, password } = req.body;
 
   try {
-    // Aynı email ile kayıtlı bir kullanıcı var mı kontrol ediliyor
     let user = await User.findOne({ email });
     if (user) {
       return res.status(409).json({ msg: 'Bu email adresi ile kayıtlı bir kullanıcı zaten var' });
     }
 
-    // Yeni kullanıcı oluşturuluyor
     user = new User({
       firstName,
       lastName,
       email,
-      password // Şifre hash'lenmiş değil, şifre hash'lenmeli
+      password 
     });
 
     await user.save();
@@ -90,11 +88,9 @@ app.post('/login', async (req, res) => {
 
 app.get('/home', async (req, res) => {
   try {
-    // Series ve Movies koleksiyonlarındaki verileri getiriyoruz
     const series = await Series.find();
     const movies = await Movie.find();
 
-    // Her iki koleksiyonun verilerini birleştirip döndürüyoruz
     res.status(200).json({ series, movies });
   } catch (error) {
     console.error(error.message);
@@ -103,33 +99,31 @@ app.get('/home', async (req, res) => {
 });
 
 app.get('/movie/:id', async (req, res) => {
-  const { id } = req.params; // req.params kullanılarak id alınıyor
-  console.log(id); // id doğru şekilde loglanıyor
+  const { id } = req.params; 
+  console.log(id);
   try {
-    // Veritabanında movieid ile eşleşen bir kayıt aranıyor
     const movie = await Movie.findOne({ movieid: id });
     if (!movie) {
       return res.status(404).json({ message: 'Film bulunamadı' });
     }
-    res.json(movie); // Film bulunduysa JSON olarak döndürülüyor
+    res.json(movie); 
   } catch (error) {
-    console.error('Film detayları alınamadı:', error); // Hata durumunda konsola hata yazdırılıyor
+    console.error('Film detayları alınamadı:', error);
     res.status(500).send('Sunucu hatası');
   }
 });
 
 app.get('/series/:id', async (req, res) => {
-  const { id } = req.params; // req.params kullanılarak id alınıyor
-  console.log(id); // id doğru şekilde loglanıyor
+  const { id } = req.params;
+  console.log(id); 
   try {
-    // Veritabanında movieid ile eşleşen bir kayıt aranıyor
     const series = await Series.findOne({ seriesid: id });
     if (!series) {
       return res.status(404).json({ message: 'Film bulunamadı' });
     }
-    res.json(series); // Film bulunduysa JSON olarak döndürülüyor
+    res.json(series); 
   } catch (error) {
-    console.error('Film detayları alınamadı:', error); // Hata durumunda konsola hata yazdırılıyor
+    console.error('Film detayları alınamadı:', error);
     res.status(500).send('Sunucu hatası');
   }
 });
@@ -180,14 +174,12 @@ app.post('/favorites', async (req, res) => {
   try {
     const { userId, itemId, itemType } = req.body;
 
-    // Favori nesnesini oluştur
     const favorite = new Favorite({
-      userId, // Number olarak alınan userId
+      userId, 
       itemId,
       itemType
     });
 
-    // Favoriyi veritabanına kaydet
     await favorite.save();
     res.status(201).json(favorite);
   } catch (error) {
@@ -216,8 +208,6 @@ app.delete('/favorites', async (req, res) => {
 app.get('/favorites/:userId', async (req, res) => {
   try {
     const { userId } = req.params;
-
-    // userId Number olduğu için Number olarak alıyoruz
     const favorites = await Favorite.find({ userId: Number(userId) }).exec();
     res.status(200).json(favorites);
   } catch (error) {
@@ -229,26 +219,22 @@ app.get('/favorites/:userId', async (req, res) => {
 app.get('/favorites/details/:userId', async (req, res) => {
   try {
     const { userId } = req.params;
-
-    // Kullanıcının favori filmlerini/dizilerini bul
     const favorites = await Favorite.find({ userId: Number(userId) });
 
     const favoriteDetails = await Promise.all(
       favorites.map(async (favorite) => {
         if (favorite.itemType === 'movie') {
-          // Movie detayını getir
           const movie = await Movie.findOne({ movieid: favorite.itemId });
-          return { ...movie._doc, itemType: 'movie' }; // itemType ekleniyor
+          return { ...movie._doc, itemType: 'movie' };
         } else if (favorite.itemType === 'series') {
-          // Series detayını getir
           const series = await Series.findOne({ seriesid: favorite.itemId });
-          return { ...series._doc, itemType: 'series' }; // itemType ekleniyor
+          return { ...series._doc, itemType: 'series' }; 
         }
         return null;
       })
     );
 
-    res.status(200).json(favoriteDetails.filter(item => item !== null)); // Null olmayan öğeleri döndür
+    res.status(200).json(favoriteDetails.filter(item => item !== null)); 
   } catch (error) {
     console.error('Favori detayları alınırken hata:', error);
     res.status(500).json({ message: 'Favori detayları alınırken bir hata oluştu' });
@@ -262,22 +248,18 @@ app.post('/add-to-watchlist', async (req, res) => {
     if (!userId || !itemId || !itemType) {
       return res.status(400).json({ message: 'Eksik parametreler' });
     }
-
-    // İzleme listesinde öğenin zaten var olup olmadığını kontrol et
     const existingWatchlistItem = await Watchlist.findOne({ userId, itemId, itemType });
 
     if (existingWatchlistItem) {
       return res.status(400).json({ message: 'Öğe zaten izleme listenizde mevcut' });
     }
 
-    // Yeni izleme listesi öğesi oluştur
     const newWatchlistItem = new Watchlist({
       userId,
       itemId,
       itemType
     });
 
-    // İzleme listesini veritabanına kaydet
     await newWatchlistItem.save();
     res.status(201).json({ message: 'Öğe izleme listenize başarıyla eklendi' });
   } catch (error) {
@@ -290,25 +272,22 @@ app.get('/watchlist/details/:userId', async (req, res) => {
   try {
     const { userId } = req.params;
 
-    // Kullanıcının izleme listesinde olan filmleri/dizilerini bul
     const watchlist = await Watchlist.find({ userId: Number(userId) });
 
     const watchlistDetails = await Promise.all(
       watchlist.map(async (item) => {
         if (item.itemType === 'movie') {
-          // Movie detayını getir
           const movie = await Movie.findOne({ movieid: item.itemId });
-          return { ...movie._doc, itemType: 'movie' }; // itemType ekleniyor
+          return { ...movie._doc, itemType: 'movie' };
         } else if (item.itemType === 'series') {
-          // Series detayını getir
           const series = await Series.findOne({ seriesid: item.itemId });
-          return { ...series._doc, itemType: 'series' }; // itemType ekleniyor
+          return { ...series._doc, itemType: 'series' }; 
         }
         return null;
       })
     );
 
-    res.status(200).json(watchlistDetails.filter(item => item !== null)); // Null olmayan öğeleri döndür
+    res.status(200).json(watchlistDetails.filter(item => item !== null));
   } catch (error) {
     console.error('İzleme listesi detayları alınırken hata:', error);
     res.status(500).json({ message: 'İzleme listesi detayları alınırken bir hata oluştu' });
@@ -345,7 +324,6 @@ app.post('/comments', async (req, res) => {
   }
 
   try {
-    // Yeni yorumu oluştur
     const comment = new Comment({
       text,
       rating,
@@ -356,7 +334,6 @@ app.post('/comments', async (req, res) => {
 
     await comment.save();
 
-    // Belirli bir koleksiyonun verilerini güncelle
     if (itemType === 'movie') {
       const movie = await Movie.findOne({ movieid: itemId });
       if (movie) {
@@ -402,24 +379,21 @@ app.get('/comments/:itemId/:itemType', async (req, res) => {
 
 app.get('/account', async (req, res) => {
   const userId = req.session.userId;
-  console.log('User ID:', userId); // Kullanıcı ID'sini konsola yazdır
+  console.log('User ID:', userId); 
 
   if (!userId) {
     return res.status(401).json({ message: 'Yetkilendirilmemiş erişim' });
   }
 
   try {
-    // Kullanıcıyı ID'ye göre bul
     const user = await User.findOne({ userid: userId }).select('-password');
 
     if (!user) {
       return res.status(404).json({ message: 'Kullanıcı bulunamadı' });
     }
 
-    // Kullanıcı bilgilerini konsola yazdır
     console.log('User Data:', user);
 
-    // Kullanıcı bilgilerini döndür
     res.json(user);
   } catch (error) {
     console.error('Failed to load user data:', error);
@@ -440,7 +414,7 @@ app.put('/account', async (req, res) => {
       { userid: userId },
       { firstName, lastName, email },
       { new: true }
-    ).select('-password'); // Şifreyi dahil etme
+    ).select('-password'); 
 
     if (!user) {
       return res.status(404).json({ message: 'Kullanıcı bulunamadı' });
@@ -466,20 +440,16 @@ app.put('/change-password', async (req, res) => {
       return res.status(404).json({ message: 'Kullanıcı bulunamadı' });
     }
 
-    // Eski şifreyi kontrol et
     const isMatch = await bcrypt.compare(oldPassword, user.password);
     if (!isMatch) {
       return res.status(400).json({ message: 'Eski şifre yanlış' });
     }
 
-    // Yeni şifreyi hash'le
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(newPassword, salt);
 
-    // Şifreyi doğrudan güncelle
     await User.updateOne({ userid: userId }, { password: hashedPassword });
 
-    // Güncellenmiş kullanıcı verisini tekrar al
     const updatedUser = await User.findOne({ userid: userId });
     console.log('Updated user data:', updatedUser);
 
@@ -494,17 +464,14 @@ app.post('/reset-password', async (req, res) => {
   const { email, newPassword } = req.body;
 
   try {
-    // Kullanıcıyı email ile bul
     const user = await User.findOne({ email: email });
     if (!user) {
       return res.status(404).json({ message: 'Kullanıcı bulunamadı' });
     }
 
-    // Yeni şifreyi hash'le
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(newPassword, salt);
 
-    // Şifreyi güncelle
     await User.updateOne({ email: email }, { password: hashedPassword });
 
     res.json({ message: 'Şifre başarıyla sıfırlandı' });
@@ -522,7 +489,7 @@ app.delete('/account', async (req, res) => {
 
   try {
     await User.findOneAndDelete({ userid: userId });
-    req.session.destroy(); // Oturumu sonlandır
+    req.session.destroy(); 
     res.json({ message: 'Hesap başarıyla silindi' });
   } catch (error) {
     console.error('Failed to delete account:', error);
@@ -548,42 +515,36 @@ app.post('/support', async (req, res) => {
 
 app.post('/movies', async (req, res) => {
   try {
-    // Son film ID'sini bul
     const lastMovie = await Movie.findOne().sort({ movieid: -1 }).exec();
-    const newMovieId = lastMovie ? lastMovie.movieid + 1 : 1; // Eğer koleksiyon boşsa ID 1'den başlasın
+    const newMovieId = lastMovie ? lastMovie.movieid + 1 : 1; 
 
-    // Yeni film nesnesini oluştur
     const newMovie = new Movie({
       ...req.body,
-      movieid: newMovieId, // Yeni film ID'sini ata
+      movieid: newMovieId, 
     });
 
-    // Filmi kaydet
     await newMovie.save();
     res.status(201).send({ message: 'Film başarıyla eklendi!' });
   } catch (error) {
-    console.error('Film eklenirken hata oluştu:', error); // Hata mesajını konsola yazdır
+    console.error('Film eklenirken hata oluştu:', error);
     res.status(400).send({ error: 'Film eklenirken hata oluştu!' });
   }
 });
 
 app.post('/series', async (req, res) => {
   try {
-    // Son dizi ID'sini bul
     const lastSeries = await Series.findOne().sort({ seriesid: -1 }).exec();
-    const newSeriesId = lastSeries ? lastSeries.seriesid + 1 : 1; // Eğer koleksiyon boşsa ID 1'den başlasın
+    const newSeriesId = lastSeries ? lastSeries.seriesid + 1 : 1; 
 
-    // Yeni dizi nesnesini oluştur
     const newSeries = new Series({
       ...req.body,
-      seriesid: newSeriesId, // Yeni dizi ID'sini ata
+      seriesid: newSeriesId, 
     });
 
-    // Diziyi kaydet
     await newSeries.save();
     res.status(201).send({ message: 'Dizi başarıyla eklendi!' });
   } catch (error) {
-    console.error('Dizi eklenirken hata oluştu:', error); // Hata mesajını konsola yazdır
+    console.error('Dizi eklenirken hata oluştu:', error); 
     res.status(400).send({ error: 'Dizi eklenirken hata oluştu!' });
   }
 });

@@ -1,13 +1,13 @@
 <template>
   <Header :onLogout="handleLogout" />
   <div class="account-settings">
-    <h1 v-if="!showPasswordForm">Account Settings</h1>
+    <h1 v-if="!showPasswordForm">Hesap Ayarları</h1>
 
     <div v-if="!showPasswordForm" class="general-info">
-      <label>First Name</label>
+      <label>Ad</label>
       <input type="text" v-model="user.firstName" :disabled="!isEditing" />
 
-      <label>Last Name</label>
+      <label>Soyad</label>
       <input type="text" v-model="user.lastName" :disabled="!isEditing" />
 
       <label>Email</label>
@@ -16,31 +16,31 @@
 
     <div class="password-section">
       <h3 @click="togglePasswordForm" class="password-link">
-        <a v-if="!showPasswordForm && !isEditing" href="javascript:void(0)">Change Password</a>
+        <a v-if="!showPasswordForm && !isEditing" href="javascript:void(0)">Şifremi Değiştir</a>
       </h3>
-      <h2 v-if="showPasswordForm"> Change Password</h2>
+      <h2 v-if="showPasswordForm"> Şifremi Değiştir</h2>
       <div v-if="showPasswordForm" class="password-form">
-        <label>Old Password</label>
+        <label>Eski Şifre</label>
         <input type="password" v-model="oldPassword" />
 
-        <label>New Password</label>
+        <label>Yeni Şifre</label>
         <input type="password" v-model="newPassword" />
 
-        <label>Confirm New Password</label>
+        <label>Yeni Şifrenizi Onaylayın</label>
         <input type="password" v-model="confirmPassword"/>
 
         <div class="password-actions">
-          <button @click="savePassword" class="save-btn">Save</button>
-          <button @click="cancelPasswordChange" class="cancel-btn">Cancel</button>
+          <button @click="savePassword" class="save-btn">Kaydet</button>
+          <button @click="cancelPasswordChange" class="cancel-btn">İptal</button>
         </div>
       </div>
     </div>
 
     <div class="actions" v-if="!showPasswordForm">
-      <button v-if="!isEditing" @click="enableEditing" class="edit-btn">Edit</button>
-      <button v-if="!isEditing" @click="deleteAccount" class="delete-btn">Delete Account</button>
-      <button v-if="isEditing" @click="cancelChanges" class="cancel-btn">Cancel</button>
-      <button v-if="isEditing" @click="saveChanges" class="save-btn">Save</button>
+      <button v-if="!isEditing" @click="enableEditing" class="edit-btn">Düzenle</button>
+      <button v-if="!isEditing" @click="deleteAccount" class="delete-btn">Hesabımı Sil</button>
+      <button v-if="isEditing" @click="cancelChanges" class="cancel-btn">İptal</button>
+      <button v-if="isEditing" @click="saveChanges" class="save-btn">Kaydet</button>
     </div>
   </div>
 </template>
@@ -91,39 +91,39 @@ export default {
           lastName: this.user.lastName,
           email: this.user.email
         });
-        alert('Account updated successfully!');
+        alert('Hesabınız başarılı bir şekilde güncellendi!');
         this.isEditing = false;
       } catch (error) {
         console.error('Failed to save changes:', error);
-        alert('An error occurred while saving changes.');
+        alert('Değişiklik sırasında bir hata oluştu.');
       }
     },
     async savePassword() {
       try {
         if (this.newPassword && this.newPassword !== this.confirmPassword) {
-          alert('Passwords do not match!');
+          alert('Şifreleriniz aynı değil!');
           return;
         }
         await axios.put('http://localhost:5000/change-password', {
           oldPassword: this.oldPassword,
           newPassword: this.newPassword
         });
-        alert('Password changed successfully!');
+        alert('Şifreniz başarılı bir şekilde değiştirildi!');
         this.showPasswordForm = false; 
       } catch (error) {
         console.error('Failed to change password:', error);
-        alert('An error occurred while changing the password.');
+        alert('Şifre değiştirilirken bir hata oluştu.');
       }
     },
     async deleteAccount() {
-      if (confirm('Are you sure you want to delete your account? This action is irreversible.')) {
+      if (confirm('Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.')) {
         try {
           await axios.delete('http://localhost:5000/account');
-          alert('Account deleted successfully.');
+          alert('Hesabınız başarılı bir şekilde silindi.');
           this.$router.push('/login'); 
         } catch (error) {
           console.error('Failed to delete account:', error);
-          alert('An error occurred while deleting the account.');
+          alert('Hesabınız silinirken bir sorunla karşılaşıldı.');
         }
       }
     },

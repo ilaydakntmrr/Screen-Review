@@ -2,10 +2,10 @@
   <div class="wrapper">
     <Header :onLogout="handleLogout" />
     <div class="form-container">
-      <h2 class="form-title">Müşteri Destek</h2>
+      <h2 class="form-title">Destek</h2>
       <form @submit.prevent="handleSubmit">
         <div class="form-group">
-          <label for="email">E-posta:</label>
+          <label for="email">Email:</label>
           <input id="email" type="email" v-model="email" required class="input-field" />
         </div>
         <div class="form-group">

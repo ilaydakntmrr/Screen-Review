@@ -131,7 +131,6 @@ export default {
       }
 
       try {
-        // Yorum ekle
         const response = await axios.post('http://localhost:5000/comments', {
           userId: Number(userId),
           text: this.newComment,
@@ -142,10 +141,10 @@ export default {
 
         if (response.status === 201) {
           alert('Yorum eklendi.');
-          this.newComment = ''; // Yorum alanını temizle
-          this.rating = 0; // Yıldızları sıfırla
-          await this.fetchComments(itemId); // Yorumları yeniden yükle
-          await this.updateMovieStats(itemId); // Film istatistiklerini güncelle
+          this.newComment = ''; 
+          this.rating = 0;
+          await this.fetchComments(itemId); 
+          await this.updateMovieStats(itemId);
         } else {
           alert('Bir hata oluştu.');
         }

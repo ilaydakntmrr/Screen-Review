@@ -8,37 +8,37 @@
       </div>
       <div class="nav-links">
         <router-link to="/" class="nav-link">
-          <font-awesome-icon :icon="['fas', 'house']" style="color: #ffffff;" /> Home
+          <font-awesome-icon :icon="['fas', 'house']" style="color: #ffffff;" /> Anasayfa
         </router-link>
         <router-link to="/movies" class="nav-link">
-          <font-awesome-icon :icon="['fas', 'film']" style="color: #ffffff;" /> Movies
+          <font-awesome-icon :icon="['fas', 'film']" style="color: #ffffff;" /> Filmler
         </router-link>
         <router-link to="/series" class="nav-link">
-          <font-awesome-icon :icon="['fas', 'tv']" style="color: #ffffff;" /> Series
+          <font-awesome-icon :icon="['fas', 'tv']" style="color: #ffffff;" /> Diziler
         </router-link>
         <router-link to="/supportform" class="nav-link">
-          <font-awesome-icon :icon="['fas', 'headset']" /> Support
+          <font-awesome-icon :icon="['fas', 'headset']" /> Destek
         </router-link>
 
         <div v-if="isLoggedIn" class="dropdown">
           <button @click="toggleDropdown" class="nav-link">
-            <font-awesome-icon :icon="['fas', 'user']" /> Account
+            <font-awesome-icon :icon="['fas', 'user']" /> Hesabım
           </button>
           <div v-if="dropdownOpen" class="dropdown-menu">
             <router-link to="/watchlist" class="dropdown-item">
-              <font-awesome-icon :icon="['fas', 'clock']" style="color: #ffffff;" /> Watchlist
+              <font-awesome-icon :icon="['fas', 'clock']" style="color: #ffffff;" /> İzleme Listesi
             </router-link>
             <router-link to="/favorites" class="dropdown-item">
-              <font-awesome-icon :icon="['fas', 'heart']" style="color: #ffffff;" /> Favorites
+              <font-awesome-icon :icon="['fas', 'heart']" style="color: #ffffff;" /> Favorilerim
             </router-link>
             <router-link to="/account-settings" class="dropdown-item">
-              <font-awesome-icon :icon="['fas', 'gear']" style="color: #ffffff;" /> Settings
+              <font-awesome-icon :icon="['fas', 'gear']" style="color: #ffffff;" /> Ayarlar
             </router-link>
             <router-link v-if="isAdmin" to="/add" class="dropdown-item">
               <font-awesome-icon :icon="['fas', 'plus']" style="color: #ffffff;" /> Ekle
             </router-link>
             <button @click="handleLogout" class="dropdown-item">
-              <font-awesome-icon :icon="['fas', 'arrow-right-from-bracket']" style="color: #ffffff;" /> Sign Out
+              <font-awesome-icon :icon="['fas', 'arrow-right-from-bracket']" style="color: #ffffff;" /> Çıkış yap
             </button>
           </div>
         </div>
