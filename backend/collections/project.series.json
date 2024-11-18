@@ -1,0 +1,1098 @@
+[{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710bc"
+  },
+  "seriesid": 1,
+  "name": "Breaking Bad",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Kimya öğretmeni Walter White, kanser teşhisi aldıktan sonra, ailesine finansal güvence sağlamak amacıyla metamfetamin üretimine başlar. Film, suç dünyasına adım atan Walter'ın dönüşümünü anlatır.",
+  "seasonCount": 5,
+  "director": "Vince Gilligan",
+  "averageRating": null,
+  "imdb": 9.5,
+  "commentCount": null,
+  "screenwriter": "Vince Gilligan",
+  "stars": [
+    "Bryan Cranston",
+    "Aaron Paul",
+    "Anna Gunn"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710bd"
+  },
+  "seriesid": 2,
+  "name": "Planet Earth II",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Doğanın ve vahşi yaşamın güzelliklerini ve zorluklarını keşfeden belgeselin ikinci sezonu. Çeşitli habitatlarda yaşayan hayvanların yaşamlarına dair yeni görüntüler sunar.",
+  "seasonCount": 1,
+  "director": "David Attenborough",
+  "averageRating": 3,
+  "imdb": 9.5,
+  "commentCount": 2,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710be"
+  },
+  "seriesid": 3,
+  "name": "Planet Earth",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Doğanın ve yeryüzündeki çeşitli ekosistemlerin ayrıntılı bir incelemesi. Hayvanların yaşam döngülerini ve doğal güzellikleri gösterir.",
+  "seasonCount": 1,
+  "director": "David Attenborough",
+  "averageRating": null,
+  "imdb": 9.4,
+  "commentCount": null,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BY2NjNDUzOTgtMDFmNC00ZGQ4LWE5MDctMzczNGVlOGU1N2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710bf"
+  },
+  "seriesid": 4,
+  "name": "Band of Brothers",
+  "category": [
+    "Dram"
+  ],
+  "summary": "II. Dünya Savaşı sırasında Easy Company adlı bir Amerikalı paraşütçü birliğinin savaş deneyimlerini anlatır. Dizi, savaşın zorluklarını ve kardeşlik bağlarını detaylandırır.",
+  "seasonCount": 1,
+  "director": "David Frankel",
+  "averageRating": null,
+  "imdb": 9.4,
+  "commentCount": null,
+  "screenwriter": "Tom Hanks",
+  "stars": [
+    "Scott Grimes",
+    "Damian Lewis",
+    "Donnie Wahlberg"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c0"
+  },
+  "seriesid": 5,
+  "name": "Chernobyl",
+  "category": [
+    "Dram"
+  ],
+  "summary": "1986'da Ukrayna'daki Çernobil nükleer santralinde meydana gelen patlamayı ve sonrasındaki olayları konu alır. Dizi, olayın etkilerini ve nükleer felaketin sonuçlarını araştırır.",
+  "seasonCount": 1,
+  "director": "Johan Renck",
+  "averageRating": null,
+  "imdb": 9.4,
+  "commentCount": null,
+  "screenwriter": "Craig Mazin",
+  "stars": [
+    "Jared Harris",
+    "Stellan Skarsgård",
+    "Emily Watson"
+  ],
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7hiBtOjFopRN6fT42Wa6qDrCtIpKFbCEoA&s"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c1"
+  },
+  "seriesid": 6,
+  "name": "The Wire",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "Baltimore'daki uyuşturucu ticareti ve onun toplumsal etkilerini detaylandıran bir dizi. Dizi, polis, uyuşturucu satıcıları ve şehirdeki diğer sosyal yapıları derinlemesine ele alır.",
+  "seasonCount": 5,
+  "director": "David Simon",
+  "averageRating": null,
+  "imdb": 9.3,
+  "commentCount": null,
+  "screenwriter": "David Simon",
+  "stars": [
+    "Dominic West",
+    "Idris Elba",
+    "Seth Gilliam"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c2"
+  },
+  "seriesid": 7,
+  "name": "Avatar: The Last Airbender",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Genç bir çocuk olan Aang'in, dört elementi (su, ateş, toprak, hava) kontrol edebilen bir Avatar olarak dünyayı kurtarma mücadelesini anlatır.",
+  "seasonCount": 3,
+  "director": "Michael Dante DiMartino",
+  "averageRating": null,
+  "imdb": 9.2,
+  "commentCount": null,
+  "screenwriter": "Michael Dante DiMartino",
+  "stars": [
+    "Zach Tyler Eisen",
+    "Mae Whitman",
+    "Jack De Sena"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c3"
+  },
+  "seriesid": 8,
+  "name": "Blue Planet II",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Okyanusların derinliklerinde yaşayan canlıları ve ekosistemleri keşfeden belgeselin ikinci sezonu. Deniz yaşamının çeşitli yönlerini gözler önüne serer.",
+  "seasonCount": 1,
+  "director": "David Attenborough",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/I/81UvcPHNEPL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c4"
+  },
+  "seriesid": 9,
+  "name": "The Sopranos",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "New Jersey'de bir mafya ailesinin lideri olan Tony Soprano'nun hem suç dünyasındaki hem de ailesindeki sorunlarla başa çıkma mücadelesini konu alır.",
+  "seasonCount": 6,
+  "director": "David Chase",
+  "averageRating": null,
+  "imdb": 9.2,
+  "commentCount": null,
+  "screenwriter": "David Chase",
+  "stars": [
+    "James Gandolfini",
+    "Edie Falco",
+    "Michael Imperioli"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZTZkMWVkNTEtYzMxMC00MzQzLTg5NjUtNTNmN2M2NzEwNzI0XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09682873c386b1d2710c5"
+  },
+  "seriesid": 10,
+  "name": "Cosmos: A Spacetime Odyssey",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Evrendeki doğa yasalarını, gezegenleri ve kozmik olayları keşfeden belgesel. Bilim insanı Neil deGrasse Tyson tarafından sunulur.",
+  "seasonCount": 1,
+  "director": "Ann Druyan",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Ann Druyan",
+  "stars": [
+    "Neil deGrasse Tyson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710c6"
+  },
+  "seriesid": 11,
+  "name": "Cosmos",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Carl Sagan tarafından sunulan bu belgesel, evrenin kökenlerini ve doğa yasalarını araştırır. Bilimsel konuları herkesin anlayabileceği şekilde açıklar.",
+  "seasonCount": 1,
+  "director": "Carl Sagan",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Carl Sagan",
+  "stars": [
+    "Carl Sagan"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BM2YzYzc0OWUtNmIwZi00MTBlLThjYTgtYmU1ODlhMzdjMzdjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710c7"
+  },
+  "seriesid": 12,
+  "name": "Our Planet",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Dünya'nın doğal güzelliklerini ve biyolojik çeşitliliğini inceleyen bir belgesel dizisi. İnsan etkisinin doğa üzerindeki etkilerini de ele alır.",
+  "seasonCount": 1,
+  "director": "David Attenborough",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmM2OWEyN2EtZWY2NS00ZDA3LWFlNTAtNzUzMGQwZWVlZmE4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710c8"
+  },
+  "seriesid": 13,
+  "name": "Game of Thrones",
+  "category": [
+    "Fantastik"
+  ],
+  "summary": "Bir dizi kraliyet ailesi ve soyluların, Westeros'taki taht için verdikleri mücadeleyi konu alır. Dizi, politik entrikalar, savaşlar ve ejderhalarla dolu bir dünyayı tasvir eder.",
+  "seasonCount": 8,
+  "director": "David Benioff",
+  "averageRating": null,
+  "imdb": 9.3,
+  "commentCount": null,
+  "screenwriter": "David Benioff",
+  "stars": [
+    "Emilia Clarke",
+    "Kit Harington",
+    "Peter Dinklage"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710c9"
+  },
+  "seriesid": 14,
+  "name": "Bluey",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Genç bir köpek yavrusu olan Bluey'nin günlük yaşamı ve ailesiyle olan maceralarını konu alır. Eğitimsel ve eğlenceli hikayeler sunar.",
+  "seasonCount": 3,
+  "director": "Joe Brumm",
+  "averageRating": null,
+  "imdb": 8.6,
+  "commentCount": null,
+  "screenwriter": "Joe Brumm",
+  "stars": [
+    "Dave McCormack",
+    "Melanie Zanetti"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMDBiNDI3YjQtNDdkNS00ZDliLTlmMmQtMDE4ZWM1ZGIyNjljXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710ca"
+  },
+  "seriesid": 15,
+  "name": "The World at War",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "II. Dünya Savaşı'nın tüm yönlerini kapsamlı bir şekilde inceleyen bir belgeseldir. Savaşın büyük olaylarını ve sonuçlarını detaylandırır.",
+  "seasonCount": 1,
+  "director": "Laurence Olivier",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Laurence Olivier",
+  "stars": [
+    "Laurence Olivier"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTI1NDAxMWQtOThkOS00MWIwLWJlNGQtNGJhNGIzZTkxYTcwXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710cb"
+  },
+  "seriesid": 16,
+  "name": "Fullmetal Alchemist: Brotherhood",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "İki kardeşin, kaybettikleri vücutlarını geri kazanmak için bir taş arayışlarını anlatır. Fantastik öğeler ve derin karakter gelişimi içerir.",
+  "seasonCount": 1,
+  "director": "Yasuhiro Irie",
+  "averageRating": null,
+  "imdb": 9.1,
+  "commentCount": null,
+  "screenwriter": "Hiromu Arakawa",
+  "stars": [
+    "Vic Mignogna",
+    "Aaron Dismuke",
+    "Laura Bailey"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710cc"
+  },
+  "seriesid": 17,
+  "name": "Rick and Morty",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Deli bilim adamı Rick ve torunu Morty'nin çeşitli evrenlerde yaşadıkları absürd maceraları konu alır. Bilim kurgu ve komedi unsurlarını harmanlar.",
+  "seasonCount": 6,
+  "director": "Dan Harmon",
+  "averageRating": null,
+  "imdb": 9.1,
+  "commentCount": null,
+  "screenwriter": "Dan Harmon",
+  "stars": [
+    "Justin Roiland",
+    "Chris Parnell",
+    "Spencer Grammer"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710cd"
+  },
+  "seriesid": 18,
+  "name": "Life",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Doğanın çeşitliliğini ve hayvanların yaşam döngülerini inceleyen bir belgeseldir. Çeşitli türlerin doğal davranışlarını gösterir.",
+  "seasonCount": 1,
+  "director": "David Attenborough",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNjJhMTAxZjYtNWZkYy00Nzg1LTlkYjItZTNhZWRjNzkxMDg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710ce"
+  },
+  "seriesid": 19,
+  "name": "The Last Dance",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "NBA yıldızı Michael Jordan'ın Chicago Bulls ile olan kariyerine ve 1990'ların sonundaki başarılarına odaklanır. Spor tarihi ve kişisel başarı hikayeleri sunar.",
+  "seasonCount": 1,
+  "director": "Jason Hehir",
+  "averageRating": null,
+  "imdb": 9.1,
+  "commentCount": null,
+  "screenwriter": "Jason Hehir",
+  "stars": [
+    "Michael Jordan",
+    "Scottie Pippen",
+    "Dennis Rodman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d097da873c386b1d2710cf"
+  },
+  "seriesid": 20,
+  "name": "The Twilight Zone",
+  "category": [
+    "Bilim Kurgu"
+  ],
+  "summary": "Gerilim, bilim kurgu ve doğaüstü öyküler sunan bir antoloji dizisidir. Her bölümde bağımsız bir hikaye yer alır.",
+  "seasonCount": 5,
+  "director": "Rod Serling",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Rod Serling",
+  "stars": [
+    "Rod Serling"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d0"
+  },
+  "seriesid": 21,
+  "name": "The Vietnam War",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Vietnam Savaşı'nın detaylarını ve etkilerini kapsamlı bir şekilde ele alan belgesel dizisidir. Savaşın tüm taraflarını ve sonuçlarını araştırır.",
+  "seasonCount": 1,
+  "director": "Ken Burns",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Ken Burns",
+  "stars": [
+    "Ken Burns"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmY2NGMyY2EtMjJiMS00MmFlLTk1MmItZDA1NTQ0ODg0MDA4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d1"
+  },
+  "seriesid": 22,
+  "name": "Sherlock",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "Modern Londra'da geçen bir dedektif hikayesidir. Sherlock Holmes'un karmaşık suçları çözme yeteneğini ve Watson ile olan ilişkisini anlatır.",
+  "seasonCount": 4,
+  "director": "Mark Gatiss",
+  "averageRating": null,
+  "imdb": 9.1,
+  "commentCount": null,
+  "screenwriter": "Mark Gatiss",
+  "stars": [
+    "Benedict Cumberbatch",
+    "Martin Freeman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d2"
+  },
+  "seriesid": 23,
+  "name": "Attack on Titan",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "İnsanları devasa canavarlardan korumaya çalışan askerlerin mücadelesini konu alır. Karanlık bir dünyada hayatta kalma ve savaş temalarını işler.",
+  "seasonCount": 4,
+  "director": "Tetsurō Araki",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Hajime Isayama",
+  "stars": [
+    "Yūki Kaji",
+    "Marina Inoue"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d3"
+  },
+  "seriesid": 24,
+  "name": "Batman: The Animated Series",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Batman'in suçlularla mücadelesini ve Gotham City'deki adaleti sağlama çabalarını anlatan bir animasyon dizisidir.",
+  "seasonCount": 4,
+  "director": "Bruce Timm",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Paul Dini",
+  "stars": [
+    "Kevin Conroy",
+    "Mark Hamill"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmVkNDc3YjQtZDMzOS00MTNjLTljNzUtZDhjYWQxMmVlNjE5XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d4"
+  },
+  "seriesid": 25,
+  "name": "The Office",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "Bir ofis ortamındaki çalışanların günlük yaşamlarını mizahi bir şekilde anlatır. Amerikan ve İngiliz versiyonları vardır.",
+  "seasonCount": 9,
+  "director": "Greg Daniels",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Greg Daniels",
+  "stars": [
+    "Steve Carell",
+    "Rainn Wilson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d5"
+  },
+  "seriesid": 26,
+  "name": "Better Call Saul",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "Breaking Bad dizisinin öncesini anlatan bir prequel'dir. Avukat Jimmy McGill'in, Saul Goodman'a dönüşüm sürecini detaylandırır.",
+  "seasonCount": 6,
+  "director": "Vince Gilligan",
+  "averageRating": null,
+  "imdb": 8.7,
+  "commentCount": null,
+  "screenwriter": "Vince Gilligan",
+  "stars": [
+    "Bob Odenkirk",
+    "Rhea Seehorn"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d6"
+  },
+  "seriesid": 27,
+  "name": "The Blue Planet",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Okyanus yaşamını ve denizlerin derinliklerini keşfeden bir belgeseldir. Deniz altındaki ekosistemlerin çeşitliliğini gösterir.",
+  "seasonCount": 1,
+  "director": "Andrew Byatt",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "David Attenborough",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYjgyODJmY2YtZTk4Yy00MjBlLWFlM2YtNDIyMDk5YmQxMTllXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d7"
+  },
+  "seriesid": 28,
+  "name": "Arcane",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "League of Legends oyunundan uyarlanan bir dizi. Piltover ve Zaun şehirlerinde geçen çatışmaları ve karakterlerin geçmişlerini keşfeder.",
+  "seasonCount": 1,
+  "director": "Christian Linke",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Christian Linke",
+  "stars": [
+    "Hailee Steinfeld",
+    "Ella Purnell"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d8"
+  },
+  "seriesid": 29,
+  "name": "Scam 1992: The Harshad Mehta Story",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Hindistan'daki 1992 borsa skandalını ve borsa spekülatörü Harshad Mehta'nın hikayesini anlatır.",
+  "seasonCount": 1,
+  "director": "Hansal Mehta",
+  "averageRating": null,
+  "imdb": 9.2,
+  "commentCount": null,
+  "screenwriter": "Hansal Mehta",
+  "stars": [
+    "Pratik Gandhi",
+    "Shreya Dhanwanthary"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09937873c386b1d2710d9"
+  },
+  "seriesid": 30,
+  "name": "Clarkson's Farm",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Top Gear'dan tanınan Jeremy Clarkson'ın, kendi çiftliğinde tarım yapma deneyimini konu alır. Komik ve öğretici bir belgeseldir.",
+  "seasonCount": 2,
+  "director": "Benjamin Turner",
+  "averageRating": null,
+  "imdb": 8.7,
+  "commentCount": null,
+  "screenwriter": "Benjamin Turner",
+  "stars": [
+    "Jeremy Clarkson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYWI5M2YyYmYtMzBkNy00YWYyLThjZGUtYzEyOTQxZDQyYmVhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710da"
+  },
+  "seriesid": 31,
+  "name": "Human Planet",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "İnsanların zorlu doğal koşullarda nasıl yaşadığını ve uyum sağladığını gösterir. Çeşitli kültürleri ve yaşam tarzlarını inceler.",
+  "seasonCount": 1,
+  "director": "John Downer",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "John Downer",
+  "stars": [
+    "John Downer"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTJmZjcwZDctODRkYi00MTJkLTgwYTYtMmUxYTgxOGU4ODg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710db"
+  },
+  "seriesid": 32,
+  "name": "Frozen Planet",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Arktik ve Antarktik bölgelerdeki doğal yaşamı ve ekosistemleri keşfeder. Buzla kaplı bölgelerin güzelliklerini ve zorluklarını gösterir.",
+  "seasonCount": 1,
+  "director": "Alastair Fothergill",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Alastair Fothergill",
+  "stars": [
+    "David Attenborough"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BYjdlMGYwYWQtODVlMi00Y2I0LThiYzgtYTM0YmU5NzdhYTI0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710dc"
+  },
+  "seriesid": 33,
+  "name": "Firefly",
+  "category": [
+    "Bilim Kurgu"
+  ],
+  "summary": "Bir grup suçlu ve maceraperestin, galaktik bir uzay gemisinde yaşadığı hikayeyi anlatır. Bilim kurgu ve western unsurlarını harmanlar.",
+  "seasonCount": 1,
+  "director": "Joss Whedon",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Joss Whedon",
+  "stars": [
+    "Nathan Fillion",
+    "Gina Torres"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTcwNzkwMDItZmM1OC00MmQ2LTgxYjgtOTNiNDgxZDAxMjk0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710dd"
+  },
+  "seriesid": 34,
+  "name": "Hunter x Hunter",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Genç bir çocuğun, bir Hunter olarak adlandırılan elit bir avcı olma yolunda yaşadığı maceraları anlatır. Fantastik öğeler ve dövüş sahneleri içerir.",
+  "seasonCount": 6,
+  "director": "Nobuhiro Watsuki",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Nobuhiro Watsuki",
+  "stars": [
+    "Issei Futamata",
+    "Megumi Han"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710de"
+  },
+  "seriesid": 35,
+  "name": "Only Fools and Horses",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "İki kardeşin ve onların çeşitli şanssızlıklarının komik hikayelerini anlatır. İngiltere'nin en popüler komedi dizilerinden biridir.",
+  "seasonCount": 7,
+  "director": "Ray Butt",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "John Sullivan",
+  "stars": [
+    "David Jason",
+    "Nicholas Lyndhurst"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMWM4YjFhOWMtYzg1Yi00NTA2LTlmNzMtNDk3M2M1MTRiN2QyXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710df"
+  },
+  "seriesid": 36,
+  "name": "The Civil War",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "Amerikan İç Savaşı'nın tüm yönlerini kapsamlı bir şekilde inceleyen bir belgeseldir. Savaşın kökenlerini, olaylarını ve sonuçlarını detaylandırır.",
+  "seasonCount": 1,
+  "director": "Ken Burns",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Ken Burns",
+  "stars": [
+    "Ken Burns"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZjE1ODNkYzctNjM0Ni00MmM3LTkyMjctZGRhYzA3YzhjMTFlXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710e0"
+  },
+  "seriesid": 37,
+  "name": "Death Note",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Bir lise öğrencisinin, ölümleri kontrol etme gücüne sahip bir defteri bulması ve bu gücü kullanarak dünyayı değiştirme çabasını anlatır.",
+  "seasonCount": 1,
+  "director": "Tetsurō Araki",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Tsugumi Ohba",
+  "stars": [
+    "Mamoru Miyano",
+    "Noriko Hidaka"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710e1"
+  },
+  "seriesid": 38,
+  "name": "Seinfeld",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "New York'ta yaşayan bir komedyenin ve arkadaşlarının günlük yaşamlarını konu alır. Dizi, hayatın sıradan olaylarını mizahi bir şekilde ele alır.A sitcom about the everyday lives and misadventures of comedian Jerry Seinfeld and his friends in New York City.",
+  "seasonCount": 9,
+  "director": "Larry David",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Larry David",
+  "stars": [
+    "Jerry Seinfeld",
+    "Julia Louis-Dreyfus"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710e2"
+  },
+  "seriesid": 39,
+  "name": "Dekalog",
+  "category": [
+    "Dram"
+  ],
+  "summary": "Polonya'da geçen bu dizi, on emri temele alarak, farklı insanların yaşamlarını ve ahlaki sorunlarını keşfeder. Her bölüm, bir ahlaki dilemmayı ele alır.",
+  "seasonCount": 1,
+  "director": "Krzysztof Kieślowski",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Krzysztof Kieślowski",
+  "stars": [
+    "Krzysztof Kieślowski"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNDgzZDVmZjYtYmNhNi00YTE0LWJmNDAtODZiNWIwMjJhZDhhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09a9f873c386b1d2710e3"
+  },
+  "seriesid": 40,
+  "name": "Gravity Falls",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "İkizlerin, tatilde kaldıkları kasabada karşılaştıkları doğaüstü olayları ve gizemleri keşfeder. Fantastik ve komik unsurlar içerir.",
+  "seasonCount": 2,
+  "director": "Alex Hirsch",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Alex Hirsch",
+  "stars": [
+    "Jason Ritter",
+    "Kristen Schaal"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e4"
+  },
+  "seriesid": 41,
+  "name": "The Beatles: Get Back",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "The Beatles'ın 1969'daki çalışma sürecini ve \"Let It Be\" albümünün yapım sürecini gösterir. Grup üyelerinin günlük yaşamlarını ve müzik üretimini inceler.",
+  "seasonCount": 1,
+  "director": "Peter Jackson",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Peter Jackson",
+  "stars": [
+    "Paul McCartney",
+    "Ringo Starr"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNjMxMjE5ZTEtMjgyOC00ODM4LWJjZDAtMjcwZDBlNzZhZTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e5"
+  },
+  "seriesid": 42,
+  "name": "Cowboy Bebop",
+  "category": [
+    "Animasyon"
+  ],
+  "summary": "Uzayda suç avcılığı yapan bir grup uzay kaşifinin maceralarını konu alır. Bilim kurgu, aksiyon ve jazz müziği unsurlarını içerir.",
+  "seasonCount": 1,
+  "director": "Shinichirō Watanabe",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Shinichirō Watanabe",
+  "stars": [
+    "Kōichi Yamadera",
+    "Mahana"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e6"
+  },
+  "seriesid": 43,
+  "name": "True Detective",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "Her sezon, bağımsız bir dedektiflik vakasını ve bu vakayı çözmeye çalışan dedektiflerin kişisel ve profesyonel mücadelelerini anlatır.",
+  "seasonCount": 3,
+  "director": "Nic Pizzolatto",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Nic Pizzolatto",
+  "stars": [
+    "Matthew McConaughey",
+    "Woody Harrelson"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BNTEzMzBiNGYtYThiZS00MzBjLTk5ZWItM2FmMzU3Y2RjYTVlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e7"
+  },
+  "seriesid": 44,
+  "name": "Fargo",
+  "category": [
+    "Polisiye"
+  ],
+  "summary": "Minnesotalı bir kasabada geçen cinayetler ve suç hikayeleri. Her sezon, ayrı bir hikaye ve karakterlerle suç dünyasını araştırır.",
+  "seasonCount": 5,
+  "director": "Noah Hawley",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Noah Hawley",
+  "stars": [
+    "Billy Bob Thornton",
+    "Martin Freeman"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMjNlMTIxNDEtY2U3OC00ZGFlLTgxNzEtZDU3NTdiZTAzN2MxXkEyXkFqcGdeQXVyMTU1ODIwMTM1._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e8"
+  },
+  "seriesid": 45,
+  "name": "Persona",
+  "category": [
+    "Dram ",
+    "Polisiye"
+  ],
+  "summary": "Alzheimer hastalığına teşhis konmuş bir adam, suçluları cezalandırmaya karar verir.",
+  "seasonCount": 1,
+  "director": "Onur Saylak",
+  "averageRating": null,
+  "imdb": 8.8,
+  "commentCount": null,
+  "screenwriter": "Hakan Günday",
+  "stars": [
+    "Haluk Bilginer",
+    "Cansu Dere",
+    "Metin Akdülger",
+    "Şebnem Bozoklu",
+    "Hüseyin Avni Danyal",
+    "Erdal Özyağcılar"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTJkNzJmYzgtZTZmNC00MTQ2LWE2ZGQtM2EyYjliNGViMTY5XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710e9"
+  },
+  "seriesid": 46,
+  "name": "Nathan for You",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "Nathan Fielder'ın gerçek işlere yaratıcı çözümler sunmaya çalıştığı ve bu süreçte komik durumlarla karşılaştığı bir belgesel dizisidir.",
+  "seasonCount": 4,
+  "director": "Nathan Fielder",
+  "averageRating": null,
+  "imdb": 8.8,
+  "commentCount": null,
+  "screenwriter": "Nathan Fielder",
+  "stars": [
+    "Nathan Fielder"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOGY4ZWM1MDUtZmM3MS00ZjAxLTkyYzMtMjgxODI1YzkzNGUwXkEyXkFqcGdeQXVyNzk2NzE5Mjk@._V1_FMjpg_UX1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710ea"
+  },
+  "seriesid": 47,
+  "name": "As If",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "Yılmaz ve İlkkan, sürekli kavga eden iki arkadaştır. En büyük özellikleri, her zaman sıradan yaşamlarını altüst edebilecek bir şeyler yapabilmeleridir.",
+  "seasonCount": 2,
+  "director": "Ömer Sinir",
+  "averageRating": null,
+  "imdb": 8.5,
+  "commentCount": null,
+  "screenwriter": "Feyyaz Yiğit",
+  "stars": [
+    "Feyyaz Yiğit",
+    "Kıvanç Kılınç",
+    "Ahmet Kürşat Öçalan"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZTUzZjU0M2MtZGFmYy00ZWU0LWJjZGUtOGJlMTI4MWI4ZDUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710eb"
+  },
+  "seriesid": 48,
+  "name": "Taskmaster",
+  "category": [
+    "Komedi"
+  ],
+  "summary": "Ünlülerin çeşitli görevlerde ne kadar yaratıcı ve başarılı olduklarını test eden bir yarışma programıdır. Mizahi ve eğlenceli görevler içerir.",
+  "seasonCount": 15,
+  "director": "Andy Devonshire",
+  "averageRating": null,
+  "imdb": 8.7,
+  "commentCount": null,
+  "screenwriter": "Andy Devonshire",
+  "stars": [
+    "Greg Davies",
+    "Alex Horne"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BMTNlYzY0MTItZmI5Ni00ODEwLTkxNDktOTI3MGI1ODRmODJlXkEyXkFqcGdeQXVyMDE4MzA0NQ@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710ec"
+  },
+  "seriesid": 49,
+  "name": "Apocalypse: The Second World War",
+  "category": [
+    "Belgesel"
+  ],
+  "summary": "II. Dünya Savaşı'nın kapsamlı bir incelemesi. Savaşın büyük olaylarını ve etkilerini detaylandırır.",
+  "seasonCount": 1,
+  "director": "Isabelle Clarke",
+  "averageRating": null,
+  "imdb": 9,
+  "commentCount": null,
+  "screenwriter": "Daniel Costelle",
+  "stars": [
+    "Isabelle Clarke",
+    "Daniel Costelle"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BOTMwMzU4MTgtZTIwNC00ODJiLWJmYTctNzc5ZTU3NmJlMDZiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d09c5c873c386b1d2710ed"
+  },
+  "seriesid": 50,
+  "name": "When They See Us",
+  "category": [
+    "Dram"
+  ],
+  "summary": "1989'da New York'ta suçla suçlanan beş genç erkeğin gerçek hikayesini anlatır. Film, adalet sistemindeki ırkçılığı ve hukuki hataları araştırır.",
+  "seasonCount": 1,
+  "director": "Ava DuVernay",
+  "averageRating": null,
+  "imdb": 8.9,
+  "commentCount": null,
+  "screenwriter": "Ava DuVernay",
+  "stars": [
+    "Ava DuVernay"
+  ],
+  "img": "https://m.media-amazon.com/images/M/MV5BZmJjM2YzOWEtOTYxYi00YjhkLTliMzgtMTA2MTc0NDQ1MDM4XkEyXkFqcGdeQXVyODY5OTk4MA@@._V1_.jpg"
+}]
